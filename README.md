@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @soosbi1
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning your mom
-- 💞️ I’m looking to collaborate on your mom
-- 📫 How to reach me - ask your mom
+**- 👋 Hi, I’m _@soosbi1_
+- 👀 I’m interested in your _mom_
+- 🌱 I’m currently learning your _mom_
+- 💞️ I’m looking to collaborate on your _mom_
+- 📫 How to reach me - ask your _mom_**

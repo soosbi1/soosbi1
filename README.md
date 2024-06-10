@@ -21,4 +21,4 @@
 </div>
 
 ## Listen along
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ysy4h5y8ektu1zni74oizzh5l)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ysy4h5y8ektu1zni74oizzh5l)](https://open.spotify.com/user/ysy4h5y8ektu1zni74oizzh5l)
